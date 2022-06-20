@@ -1,0 +1,15 @@
+﻿A1) Οκ. 
+
+A3) Η εντολή είναι voms-proxy-int  voms-see.
+
+A4) Η εντολή είναι job-list-match.
+
+A5) Η εντολή είναι -job-submit  Ναι μπορούμε στο αρχείο jobID.
+
+A6) Η εντολή είναι -job-status.
+
+A7) Η εντολή είναι glite-wms-job-cancel -i -jobID.
+
+A8) Η εντολή είναι glite-wms-job-output -i -jobID --dir ./.
+
+A11) Το C4 γιατί το C5 δεν το έχω κάνει.
